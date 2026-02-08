@@ -2,8 +2,8 @@
  [atabook](https://kayshiiglitchqt.atabook.org/) &nbsp;
 ### <br />
 #### <img src="https://pbs.twimg.com/media/GMd1XfGW8AAvAT0?format=jpg&name=large" width="100%" />
-##### </div>
-
+##### ![](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=809a6a&style=flat-square)
+###### </div>
 <!--
 **ketchupalongyaoi/ketchupalongyaoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

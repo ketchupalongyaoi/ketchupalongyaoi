@@ -1,5 +1,5 @@
 # <div align="center">
- [atabook](https://kayshiiglitchqt.atabook.org/) &nbsp;
+ [atabook](https://kayshiiglitchqt.atabook.org/) &nbsp; ✦ &nbsp; [strawpage](https://picosnumberonefan.straw.page)
 ### <br />
 #### <img src="https://pbs.twimg.com/media/GMd1XfGW8AAvAT0?format=jpg&name=large" width="100%" />
 ##### ![](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=809a6a&style=flat-square)

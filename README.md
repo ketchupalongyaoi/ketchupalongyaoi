@@ -1,7 +1,8 @@
 # <div align="center">
 ## [atabook](https://kayshiiglitchqt.atabook.org/)
 ### <br />
-#### <img src="https://fridaynightfunkin.wiki.gg/index.php?curid=2866" width="100%" />
+#### <img src="https://fridaynightfunkin.wiki.gg/images/Sketch.png" width="100%" />
+##### </div>
 
 <!--
 **ketchupalongyaoi/ketchupalongyaoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

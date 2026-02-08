@@ -1,7 +1,7 @@
 # <div align="center">
 ## [atabook](https://kayshiiglitchqt.atabook.org/)
 ### <br />
-#### <img src="https://fridaynightfunkin.wiki.gg/images/Sketch.png" width="100%" />
+#### <img src="https://pbs.twimg.com/media/GMd1XfGW8AAvAT0?format=jpg&name=large" width="100%" />
 ##### </div>
 
 <!--

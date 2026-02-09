@@ -1,20 +1,9 @@
-# <div align="center">
- [atabook](https://kayshiiglitchqt.atabook.org/) &nbsp; ✦ &nbsp; [strawpage](https://picosnumberonefan.straw.page)  ✦ &nbsp; [pronouns page](https://en.pronouns.page/@k4y4) 
-### <br />
-#### <img src="https://pbs.twimg.com/media/GMd1XfGW8AAvAT0?format=jpg&name=large" width="100%" />
-##### ![](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=809a6a&style=flat-square)
-###### </div>
-<!--
-**ketchupalongyaoi/ketchupalongyaoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<sub>[atabook](https://kayshiiglitchqt.atabook.org/) &nbsp; ✦ &nbsp; [strawpage](https://picosnumberonefan.straw.page) &nbsp; ✦ &nbsp; [pronouns_page](https://en.pronouns.page/@k4y4)</sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://pbs.twimg.com/media/GMd1XfGW8AAvAT0?format=jpg&name=large" width="100%">
+
+![](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=6C905B&style=flat-square)
+
+</div>
